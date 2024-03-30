@@ -1,0 +1,14 @@
+{
+    "yoskAss": {
+        "password": "yoskass",
+        "has_extras": true
+    },
+    "kullanici2": {
+        "password": "sifre2",
+        "has_extras": false
+    },
+    "enes": {
+        "password": "aksoy",
+        "has_extras": false
+    }
+}
